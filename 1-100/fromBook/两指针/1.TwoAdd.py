@@ -20,3 +20,4 @@ def hasSum(des=data, src=target):
 
 
 print(hasSum())
+print(hasSum(src=20))
