@@ -6,7 +6,7 @@ def solution(des=[4, 5, 1, 6, 2, 7, 3, 8], k=4):
     return des[:k]
 
 
-# 选中一个数,把比选择的数小的放左边,大的放右边,返回最后分区后选择的数的下标
+# 快排的分区函数:选择一个数,把比选择的数小的或相等放左边,大的放右边,返回最后分区后选择的数的下标
 def partition(data, start, end):
     if start > end:
         return -1
@@ -37,6 +37,7 @@ def solution2(des=[4, 5, 1, 6, 2, 7, 3, 8], k=4):
     start = 0
     end = len(des) - 1
     index = partition(des, start, end)
+    print(index)
     while k - 1 != index:
         if index > k - 1:
             end = index - 1
