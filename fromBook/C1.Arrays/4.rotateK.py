@@ -1,9 +1,9 @@
 # 返回将一维数组向右旋转k个位置的结果。比如，一维数组[1,2,3,4,5]，k=2时，返回结果是[4,5,1,2,3]。要求常数级空间复杂度，允许修改原有数组
-
-from fromBook.util import generateArray as ga
 from fromBook.util.ChangeTwo import exchange
+from fromBook.util.generateArray import newArray
 
-dataset = ga.newArray.generateit(5)
+
+dataset = newArray.generateit(5)
 k = 2
 
 
