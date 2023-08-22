@@ -4,4 +4,18 @@ import generateArray as ga
 data = ga.newArray.generateDiffOne(5)
 target = 10
 
+
+def solution(dataset=data, targetset=target):
+    if len(dataset) < 2:
+        return [-1, -1]
+    # 循环读取dataset加入哈希表
+    hashmap = {}
+    for i, num in enumerate(dataset):
+        if targetset - num in hashmap:
+            return [hashmap[targetset - num], i]
+        hashmap[num] = i
+    return []
+
+
 print(data)
+print(solution())

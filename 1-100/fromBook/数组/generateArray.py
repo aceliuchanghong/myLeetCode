@@ -8,5 +8,5 @@ class newArray:
 
     def generateDiffOne(self=10):
         deep = self * 2
-        # 返回如果没有该数则添加到数组中
+        # 返回无重复值数组
         return list(set([np.random.randint(0, deep) for i in range(self)]))
