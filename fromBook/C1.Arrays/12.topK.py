@@ -3,7 +3,7 @@
 from fromBook.util import generateArray as ga
 from fromBook.util.ChangeTwo import exchange
 
-data = ga.newArray.generateit(15)
+data = ga.newArray.generateit(35)
 target = 10
 
 
@@ -14,20 +14,23 @@ def solution(des=[4, 5, 1, 6, 2, 7, 3, 8], k=4):
     return des[:k]
 
 
+
 def solution2(des, k):
     start = 0
     end = len(des) - 1
-    # 如果返回的小标是k-1 则OK
+    # 如果返回的下标是k-1 则OK
     index = partition2(des, start, end)
-    # print(des[index], index)
+    print("=:", des)
     while k - 1 != index:
-        # 如果 index > k - 1，说明基准元素在第 k 小元素的右边，那么下次划分就对左半部分进行划分
+        # des在不停的变化,所以如果 index > k - 1，说明基准元素在第 k 小元素的右边，那么下次划分就对左半部分进行划分
         if index > k - 1:
             end = index - 1
             index = partition2(des, start, end)
+            print(">:", des)
         else:
             start = index + 1
             index = partition2(des, start, end)
+            print("<:", des)
     return des[:k]
 
 
@@ -44,7 +47,7 @@ def partition2(data, start, end):
     # 由于基准元素被放置在数组末尾，因此在遍历过程中不会出现与其交换的情况
     data[pivot], data[end] = exchange(data[pivot], data[end])
 
-    # 如果当前遍历的元素 data[i] 小于等于基准元素 data[end],那么说明这个元素应该被放置到基准元素的左边，所以我们将其与 data[start] 进行交换
+    # 如果当前遍历的元素 data[i] 小于等于基准元素 data[end],那么说明这个元素应该被放置到基准元素的左边，所以我们将其与 data[pivot] 进行交换
     for i in range(start, end):
         if data[i] <= data[end]:
             if i != pivot:
@@ -54,9 +57,10 @@ def partition2(data, start, end):
             # 因为某个元素应该被放置到基准元素的左边,所以枢轴pivot+1
             pivot += 1
 
-    # 把基准元素放置到它在排序数组中应该处于的位置
+    # 把基准元素放置到它在排序数组中应该处于的位置,还原数组 为了接下来接着调用不出问题
     data[pivot], data[end] = exchange(data[pivot], data[end])
     return pivot
 
 
+print(data)
 print(solution2(data, target))
