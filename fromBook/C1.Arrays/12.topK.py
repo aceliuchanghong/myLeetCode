@@ -2,9 +2,11 @@
 # 遗漏点 内存是否能容纳整个数组?
 from fromBook.util import generateArray as ga
 from fromBook.util.ChangeTwo import exchange
+import logging
 
-data = ga.newArray.generateit(35)
+data = ga.newArray.generateit(15)
 target = 10
+logging.basicConfig(level=logging.DEBUG)
 
 
 def solution(des=[4, 5, 1, 6, 2, 7, 3, 8], k=4):
@@ -14,23 +16,23 @@ def solution(des=[4, 5, 1, 6, 2, 7, 3, 8], k=4):
     return des[:k]
 
 
-
 def solution2(des, k):
     start = 0
     end = len(des) - 1
     # 如果返回的下标是k-1 则OK
     index = partition2(des, start, end)
-    print("=:", des)
+    logging.info(des)
     while k - 1 != index:
         # des在不停的变化,所以如果 index > k - 1，说明基准元素在第 k 小元素的右边，那么下次划分就对左半部分进行划分
         if index > k - 1:
             end = index - 1
             index = partition2(des, start, end)
-            print(">:", des)
+            logging.info(des)
+        # 如果 index < k - 1，说明基准元素在第 k 小元素的左边，那么下次划分就对右半部分进行划分
         else:
             start = index + 1
             index = partition2(des, start, end)
-            print("<:", des)
+            logging.info(des)
     return des[:k]
 
 
