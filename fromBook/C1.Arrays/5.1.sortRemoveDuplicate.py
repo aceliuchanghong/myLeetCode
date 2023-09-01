@@ -46,7 +46,7 @@ def solution3(data):
     i, j = 0, 0
     for j in range(2, len(data)):
         # 复制俩指针的值不等，或者第二个指针值不等于第一个指针的前一个值
-        if data[j] != data[i] or data[j] == data[i - 1]:
+        if data[j] != data[i] or data[j] != data[i - 1]:
             i += 1
             data[i] = data[j]
     return i + 1
