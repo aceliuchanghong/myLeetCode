@@ -7,3 +7,9 @@ epub阅读:
 ```url
 https://www.flowoss.com/
 ```
+
+虚拟环境是python3.9
+
+Flow ePub 阅读器
+
+https://www.flowoss.com/zh-CN
