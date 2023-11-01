@@ -1,3 +1,9 @@
+from:
+```
+https://github.com/micro8
+https://micro8.github.io/Micro8-HTML/Chapter1/1_windows%E6%8F%90%E6%9D%83-%E5%BF%AB%E9%80%9F%E6%9F%A5%E6%89%BEexp.html
+```
+
 bitsadmin测试
 ```
 基本用法:
