@@ -58,8 +58,13 @@ set LPORT 53
 ```
 kali使用v2ray
 ```
-https://github.com/v2ray/v2ray-core/releases/ ==下载核销的core 比如v2ray-linux-64.zip
-然后去https://github.com/Qv2ray/Qv2ray/tree/v2.7.0 获取appimage客户端,指定内核,导入就可以使用了
+https://github.com/v2ray/v2ray-core/releases/ ==>下载核销的core 比如v2ray-linux-64.zip
+然后去
+https://github.com/Qv2ray/Qv2ray/tree/v2.7.0 ==>获取appimage客户端,指定内核,导入就可以使用了
+
+#阿里云
+deb http://mirrors.aliyun.com/kali kali-rolling main non-free contrib
+deb-src http://mirrors.aliyun.com/kali kali-rolling main non-free contrib
 ```
 
 
