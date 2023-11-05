@@ -65,6 +65,18 @@ https://github.com/Qv2ray/Qv2ray/tree/v2.7.0 ==>获取appimage客户端,指定�
 #阿里云
 deb http://mirrors.aliyun.com/kali kali-rolling main non-free contrib
 deb-src http://mirrors.aliyun.com/kali kali-rolling main non-free contrib
+
+把代理服务器地址写入shell配置文件.bashrc或者.zshrc 直接在.bashrc或者.zshrc添加下面内容
+export http_proxy="http://localhost:port"
+export https_proxy="http://localhost:port"
+或者走socket5协议（ss,ssr）的话，代理端口是1080
+export http_proxy="socks5://127.0.0.1:1080"
+export https_proxy="socks5://127.0.0.1:1080"
+或者干脆直接设置ALL_PROXY
+export ALL_PROXY=socks5://127.0.0.1:1080
+最后在执行如下命令应用设置
+source ~/.bashrc
+
 ```
 
 
