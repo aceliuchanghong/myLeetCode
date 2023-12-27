@@ -1,0 +1,253 @@
+https://sticker.weixin.qq.com/cgi-bin/mmemoticonwebnode-bin/pages/stickerPage/detail
+4*4=16个
+横幅750*400像素 jpg/png
+封面240*240像素 png
+图标50*50像素 png
+(像这样,帮我补全我打算放在表情包的贴字)
+Hi, how are you?   嗨，你好吗？
+Everything is ok, thanks!   一切都好，谢谢！
+What's up?   最近怎么样？
+Same old, bro.   一如既往啊，兄弟。
+Not much.   没什么新鲜事。
+Nothing special.   没有特别的事。
+Thank you, you too.   谢谢，你也一样。
+Have a nice day.   祝你有美好的一天。
+OK, I get it.   好的，我明白了。
+Take care!   保重！
+Roger that
+Miss you already.   已经开始想你了。
+Can't wait to see you!   等不及见到你了！
+Just chilling.   只是在放松。
+Feeling fantastic!   感觉棒极了！
+Let's catch up soon.   我们找个时间聊聊吧。
+Keep in touch.   保持联系。
+Good luck with that!   祝你好运！
+Sweet dreams!   甜美的梦！
+You are my angel, thank you.   你是我的天使，谢谢你。
+LOL, that's hilarious!   哈哈，真是太好笑了！
+Oh no, not again...   哦不，不是又来了...
+Wait, what just happened?   等等，刚才发生了什么？
+Seriously? Unbelievable!   真的吗？难以置信！
+Best. Day. Ever!   最棒的一天！
+Feeling blessed today.   今天感觉很幸福。
+Need more coffee...   需要更多咖啡...
+Can we talk later?   我们可以稍后再聊吗？
+Goodnight, sweet dreams!   晚安，做个好梦！
+Just keep swimming!   继续前进！
+Facepalm moment.   捂脸的时刻。
+That's what I'm talking about!   这就是我想说的！
+Adventure awaits!   冒险在等着呢！
+I can't even...   我简直无语...
+Why so serious?   干嘛这么严肃？
+Stay positive!   保持乐观！
+Is it Friday yet?   今天是星期五了吗？
+Keep calm and carry on.   保持冷静，继续前行。
+Let's get this party started!   让派对开始吧！
+So done with today.   对今天已经受够了。
+You've got this!   你能做到的！
+On cloud nine.   如在云端。
+Do I look like I care?   我看起来像我在乎吗？
+Brb, saving the world.   稍等，我去拯救世界。
+Spill the tea!   说出来吧！
+That escalated quickly.   事情突然升级了。
+Adulting is hard.   成年人的生活真难。
+Sass level: Expert.   逆天的撒娇能力。
+I plead the fifth.   我保持沉默
+
+
+
+lame.
+Kiss!!
+
+
+https://www.uisdc.com/midjourney-roles
+
+--ar:横纵 --ar 4:3 16:9 --niji 5 :漫画艺术 chibi  /describe --style raw
+控制一致性:
+
+1.垫图
+url + 相同keyword + --iw 2
+2.seed微调
+替换keyword里面某个字 + --seed nums
+3.关键字控制(放在最开始)
+N panels with different poses 生成不同的动作
+N panels with continuous doing 生成连续的动作
+Front side back three views 生成人物三视图 three views,namely the front view,the side view and the back view   1:1 16:9
+character sheet with multiple poss and expressions 生成多视角动作
+2D emoji,expression sheet 生成不同表情包
+4.连续画面生成
+continuous shooting/sequence shoot/front side back three views --ar 9:16 其中动词加ing
+5.公式
+起名+垫图+微调
+Mayu is a cute 7-year-old girl wearing a little yellow hat cape,smiling sweet,
+6.文字
+with the words "Happy New Year" on it.
+
+来自深渊==>Made in Abyss
+
+
+a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "What's up?",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 2.0 --style raw
+
+横幅
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a indifferent expression,2d game art,3 panels with different poses,in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 15:8 --iw 3.0 --style raw
+赞赏引导图
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a indifferent expression,2d game art,with the words "Thankyou!!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 15:11 --iw 3.0 --style raw
+赞赏致谢图
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a indifferent expression,2d game art,with the words "Thankyou!!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "Same old, bro",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 2.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "Not again...",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 2.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "Why so serious?",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 2.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a happy expression,2d game art,with the words "Hi, how are you?",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 2.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a calm expression,2d game art,with the words "Everything is ok, thanks!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "Not much",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a humble expression,2d game art,with the words "Thank you, you too",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "Have a nice day",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a humble expression,2d game art,with the words "OK, I get it",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a solemn expression,2d game art,with the words "Take care!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with an eager expression,2d game art,with the words "Miss you already",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "Just chilling.",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a happy expression,2d game art,with the words "Feeling fantastic!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a calm expression,2d game art,with the words "Let's catch up soon.",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with an eager expression,2d game art,with the words "Keep in touch.",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "Good luck with that!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a soft expression,2d game art,with the words "Sweet dreams!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a happy expression,2d game art,with the words "LOL, that's hilarious!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+Wait, what just happened?   等等，刚才发生了什么？
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "Wait, what just happened?",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Seriously? Unbelievable!   真的吗？难以置信！
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a shock expression,2d game art,with the words "Seriously? Unbelievable!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Best. Day. Ever!   最棒的一天！
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a happy expression,2d game art,with the words "Best. Day. Ever!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Feeling blessed today.   今天感觉很幸福。
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a happy expression,2d game art,with the words "Feeling blessed today.",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Need more coffee...   需要更多咖啡...
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a tired and unhappy expression,2d game art,with the words "Need more coffee... ",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Can we talk later?   我们可以稍后再聊吗？
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "Can we talk later?",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+Facepalm moment.   捂脸的时刻。
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a embarrassed but happy expression,2d game art,with the words "Facepalm moment.",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+That's what I'm talking about!   这就是我想说的！
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "That's what I'm talking about!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Adventure awaits!   冒险在等着呢！
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a happy expression,2d game art,with the words "Adventure awaits!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+I can't even...   我简直无语...
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "I can't even... ",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Stay positive!   保持乐观！
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confident expression,2d game art,with the words "Stay positive!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Let's get this party started!   让派对开始吧！
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a pleasant expression,2d game art,with the words "Let's get this party started! ",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+So done with today.   对今天已经受够了。
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with an indifferent and tired expression,2d game art,with the words "So done with today.",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+You've got this!   你能做到的！
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confident expression,2d game art,with the words "You've got this!",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Do I look like I care?   我看起来像我在乎吗？
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with an indifferent expression,2d game art,with the words "Do I look like I care?",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Brb, saving the world.   稍等，我去拯救世界。
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a mischievous expression,2d game art,with the words "Brb, saving the world.",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Spill the tea!   说出来吧！
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a hurry but indifferent expression,2d game art,with the words "Spill the tea! ",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+That escalated quickly.   事情突然升级了。
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a confused expression,2d game art,with the words "That escalated quickly.",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Adulting is hard.   成年人的生活真难。
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a indifferent expression,2d game art,with the words "Adulting is hard. ",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+Sass level: Expert.   逆天的撒娇能力。
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a mischievous expression,2d game art,with the words "Sass level: Expert",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+I plead the fifth.   我保持沉默
+https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a indifferent expression,2d game art,with the words "I plead the fifth ",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
+
+
+
+
+a white cartoon cat drawing on white background,in the style of animated gifs,lovely, cute white snow, in the style of animated expressions,flat, limited shading, animated gifs, loose gestures, white background, close-up, comic/cartoon
+
+an Anthropomorphic white cartoon cat drawing on 100% white background,in the style of animated gifs,lovely, cute white snow, in the style of animated expressions,flat, limited shading, animated gifs, multiple poses and expressions,happy face, sad face, character sheet, 
+
+little girl 4 year old, brown eyes, curly hair, blue dress, white shoes, multiple poses and expressions, happy face, sad face, character sheet, 100% white blackground, in style of children´s book illustration, 3D cartoon,
+
+a gray Anthropomorphic boy cat with a pure white Anthropomorphic girl cat on 100% white background,slow shot when they kissing,in the style of animated gifs,lovely,limited shading
+
+
+
+
+
+one cute sticker  pure white anthropomorphic cat on 100% white background,multiple poses and expressions,Coherent action --seed 3070892791
+
+a gray fat anthropomorphic cat with a pure white fat anthropomorphic cat on 100% white background,Miyazaki Hayao style,minimal,cute sticker
+ https://cdn.discordapp.com/attachments/1088864070045802579/1189115467357503508/lawrence_aceliuchanghong_an_Anthropomorphic_white_cartoon_cat_d_233e93cb-873b-43b3-8059-f510b8337568.png?ex=659cfd14&is=658a8814&hm=fb0b23ade1b2c18972dcfdcbbb33a2bec5d83a438731a10df5ddaca2bc6a3428& a pure white anthropomorphic cat on 100% white background,Miyazaki Hayao style,minimal,cute sticker --iw 2.0
+
+
+an anthropomorphic white cartoon cat drawing on 100% white background,in the style of animated gifs,lovely,cute white snow,Miyazaki Hayao style,chibi
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189170574359003337/lawrence_aceliuchanghong_an_anthropomorphic_white_cartoon_cat_d_c0dc654b-0d3e-4771-b414-eea020b10e51.png?ex=659d3066&is=658abb66&hm=fc4427fbd8c7cea4afaddc08cf060484625bb4dedaf2f312aca626147b32c960& 9 panels with different poses,2D emoji,expression sheet,multiple poses and expressions, happy face, sad face, character sheet,an anthropomorphic white cartoon cat drawing on 100% white background --ar 16:9 --iw 2
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189170574359003337/lawrence_aceliuchanghong_an_anthropomorphic_white_cartoon_cat_d_c0dc654b-0d3e-4771-b414-eea020b10e51.png?ex=659d3066&is=658abb66&hm=fc4427fbd8c7cea4afaddc08cf060484625bb4dedaf2f312aca626147b32c960& 4 panels with different poses,an anthropomorphic white cartoon cat drawing on 100% white background,with the words "touch me" by it's side --ar 16:9 --iw 2
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189170574359003337/lawrence_aceliuchanghong_an_anthropomorphic_white_cartoon_cat_d_c0dc654b-0d3e-4771-b414-eea020b10e51.png?ex=659d3066&is=658abb66&hm=fc4427fbd8c7cea4afaddc08cf060484625bb4dedaf2f312aca626147b32c960& an anthropomorphic white cartoon cat drawing on 100% white background --ar 16:9 --iw 2
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189173932633374810/lawrence_aceliuchanghong_an_anthropomorphic_white_cartoon_cat_d_a5e41243-395e-4419-b61f-16a507c2a4ab.png?ex=659d3387&is=658abe87&hm=4bbb072217813311a805630662b2db331a631ff5a10be45fb4fc7561018e9c51& an anthropomorphic white cartoon cat drawing on 100% white background,angrily looking --ar 16:9 --iw 2
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189173932633374810/lawrence_aceliuchanghong_an_anthropomorphic_white_cartoon_cat_d_a5e41243-395e-4419-b61f-16a507c2a4ab.png?ex=659d3387&is=658abe87&hm=4bbb072217813311a805630662b2db331a631ff5a10be45fb4fc7561018e9c51& a pure white anthropomorphic mature cat on 100% white background,minimal,with the words "Keep calm and carry on",chibi,sticker --ar 1:1 --iw 2.0 --niji 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
