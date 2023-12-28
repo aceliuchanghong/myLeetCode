@@ -204,9 +204,7 @@ https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/l
 I plead the fifth.   我保持沉默
 https://cdn.discordapp.com/attachments/1088864070045802579/1189395857158709268/lawrence_aceliuchanghong_a_pure_white_anthropomorphic_mature_ca_06cf86ca-febb-4766-a3af-66ca7d1634de.png?ex=659e0236&is=658b8d36&hm=bd6aa27bcc6f5edc21322df2f2116dabce856937f33b97c00de3e3cfca093618& a pure white anthropomorphic mature cat on 100% white background,meme art,with a indifferent expression,2d game art,with the words "I plead the fifth ",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker --ar 1:1 --iw 3.0 --style raw
 
-
-
-
+"""
 a white cartoon cat drawing on white background,in the style of animated gifs,lovely, cute white snow, in the style of animated expressions,flat, limited shading, animated gifs, loose gestures, white background, close-up, comic/cartoon
 
 an Anthropomorphic white cartoon cat drawing on 100% white background,in the style of animated gifs,lovely, cute white snow, in the style of animated expressions,flat, limited shading, animated gifs, multiple poses and expressions,happy face, sad face, character sheet, 
@@ -215,15 +213,10 @@ little girl 4 year old, brown eyes, curly hair, blue dress, white shoes, multipl
 
 a gray Anthropomorphic boy cat with a pure white Anthropomorphic girl cat on 100% white background,slow shot when they kissing,in the style of animated gifs,lovely,limited shading
 
-
-
-
-
 one cute sticker  pure white anthropomorphic cat on 100% white background,multiple poses and expressions,Coherent action --seed 3070892791
 
 a gray fat anthropomorphic cat with a pure white fat anthropomorphic cat on 100% white background,Miyazaki Hayao style,minimal,cute sticker
  https://cdn.discordapp.com/attachments/1088864070045802579/1189115467357503508/lawrence_aceliuchanghong_an_Anthropomorphic_white_cartoon_cat_d_233e93cb-873b-43b3-8059-f510b8337568.png?ex=659cfd14&is=658a8814&hm=fb0b23ade1b2c18972dcfdcbbb33a2bec5d83a438731a10df5ddaca2bc6a3428& a pure white anthropomorphic cat on 100% white background,Miyazaki Hayao style,minimal,cute sticker --iw 2.0
-
 
 an anthropomorphic white cartoon cat drawing on 100% white background,in the style of animated gifs,lovely,cute white snow,Miyazaki Hayao style,chibi
 
@@ -236,6 +229,63 @@ https://cdn.discordapp.com/attachments/1088864070045802579/1189170574359003337/l
 https://cdn.discordapp.com/attachments/1088864070045802579/1189173932633374810/lawrence_aceliuchanghong_an_anthropomorphic_white_cartoon_cat_d_a5e41243-395e-4419-b61f-16a507c2a4ab.png?ex=659d3387&is=658abe87&hm=4bbb072217813311a805630662b2db331a631ff5a10be45fb4fc7561018e9c51& an anthropomorphic white cartoon cat drawing on 100% white background,angrily looking --ar 16:9 --iw 2
 
 https://cdn.discordapp.com/attachments/1088864070045802579/1189173932633374810/lawrence_aceliuchanghong_an_anthropomorphic_white_cartoon_cat_d_a5e41243-395e-4419-b61f-16a507c2a4ab.png?ex=659d3387&is=658abe87&hm=4bbb072217813311a805630662b2db331a631ff5a10be45fb4fc7561018e9c51& a pure white anthropomorphic mature cat on 100% white background,minimal,with the words "Keep calm and carry on",chibi,sticker --ar 1:1 --iw 2.0 --niji 5
+"""
+
+"""
+Rwby is a pure white anthropomorphic mature cat,she is on a 100% black background waving the sword towards the screen,meme art,with a pride expression,2d game art,with the only words "TRY!!",simple,in the style of quirky cartoonish characters,animated gifs,chibi,sticker 
+
+
+你的任务是依据指定的核心主题，精心设计一系列适用于midjourney风格的英文prompt,这些提示词需精确对应主题要求，且需包含足够细节，以便确保生成的内容不仅精确无误，还具备高度实用性和针对性。
+具体而言，想出创意提示词，应该反映出对该主题的深度理解以及创新能力。我希望这些提示词能够触发GPT模型产生独特且丰富的内容，同时也能够引导模型探索主题的不同方面和深层次含义。在设计这些提示词时，请考虑以下几点：
+1.多样性：每组提示词应该探讨主题的不同维度，避免重复，并展现出多角度的探索。
+2.精确性：提示词应该具有足够的描述性，以便模型可以清晰地理解预期的输出方向,给出的文字要和提示词表情一致,非常重要。
+然后根据这些的关键字,在白色背景(on 100% white background),制作普通可爱的2D表情包,综合起来输出3段适用于midjourney风格的英文prompt以供我使用,其中添加文字命令是with the words "{your words}"
+比如以下这样的格式:
+Prompt 1:
+--v 5 --q 2 --ar 1:1 --style 2D --stylize 500
+a pure white anthropomorphic mature cat on 100% white background,meme art,with an indifferent expression,2d game art,with the words "Do I look like I care?",in the style of animated shapes,simple,in the style of quirky cartoonish characters, animated gifs,sticker
+Prompt 2:
+--v 5 --q 2 --ar 1:1 --style cartoon --stylize 650
+Create an anthropomorphic cat emoticon, round and plump, with an endearing quality that makes you want to squish it. The cat has large, expressive eyes, a slight frown, and is in the midst of a deep sigh, embodying a mix of contentment and resignation. The texture is soft and fluffy, reminiscent of a plush toy, with pastel colors that enhance its cuteness.
+现在指定的主题是：
+
+一只母的白色喵咪表情包Rwby,拟人的(但是更加接近亚洲人样式),但是也很圆润,但是只是微胖,让人想要像猫咪一样揉她,像人一样手撑着下巴正在做叹气的动作,图片上有文字"SAD"
+一只母的白色喵咪表情包Rwby,拟人的(但是更加接近亚洲人样式),但是也很圆润,但是只是微胖,让人想要像猫咪一样揉她,趴在桌面上验证流着泪,小嘴嘟着,希望得到关注和安慰,图片上有文字"Meow"
+一只母的白色喵咪表情包Rwby,拟人的(但是更加接近亚洲人样式),但是也很圆润,但是只是微胖,让人想要像猫咪一样揉她,正在挥舞着一把水晶小剑嚣张着,大笑着,指着屏幕,图片上有文字"come on"
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189854260385562664/lawrence_aceliuchanghong_Illustrate_a_plump_yet_gracefully_chub_e2b7050b-cdd6-454f-91b2-979a8eee369f.png?ex=659fad22&is=658d3822&hm=d75e87e2178ee44188e07c8947bf5f10b994e8d216e608dcfdbf53ba19fd6a8b&
+ in the style of animated shapes,simple, meme art, animated gifs, chibi, sticker
+--ar 1:1 --style raw
+--iw 2
+
+
+Illustrate a plump yet gracefully chubby anthropomorphic white cat emoticon, styled with Asian human-like features, against a clean white background. She should be sitting with her hand cradling her chin, embodying a sigh of wistfulness. Her eyes should be large and brimming with a subtle sadness. Emblazon the scene with the word "SAD" in an elegant, unobtrusive typeface that complements her mood, creating a heartwarming and relatable sticker for social media.--ar 1:1 --style raw
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189854260385562664/lawrence_aceliuchanghong_Illustrate_a_plump_yet_gracefully_chub_e2b7050b-cdd6-454f-91b2-979a8eee369f.png?ex=659fad22&is=658d3822&hm=d75e87e2178ee44188e07c8947bf5f10b994e8d216e608dcfdbf53ba19fd6a8b& Illustrate a round, delicately chubby anthropomorphic white cat emoticon with distinct Asian human-like features, set against a pristine white background. She is lying on a desk, her eyes brimming with tears, and her mouth forming a cute pout. The image should exude a soft, comforting vibe despite the tears, inviting empathy and affection. Overlay the image with the word "Meow" in a soft, cursive script that adds a sweet, soothing touch to the emoticon, ideal for gentle expressions in messaging apps. in the style of animated shapes,simple, meme art, animated gifs, sticker --ar 1:1 --style raw --iw 2
+
+
+https://cdn.discordapp.com/attachments/1088864070045802579/1189854260385562664/lawrence_aceliuchanghong_Illustrate_a_plump_yet_gracefully_chub_e2b7050b-cdd6-454f-91b2-979a8eee369f.png?ex=659fad22&is=658d3822&hm=d75e87e2178ee44188e07c8947bf5f10b994e8d216e608dcfdbf53ba19fd6a8b& Depict a 2D emoticon of a motherly white anthropomorphic cat with a soft, slightly chubby figure and Asian human-like features. She's swinging a gleaming crystal sword with a cheeky grin, pointing at the screen, and laughing boisterously, on a 100% white background. Her pose should exude a playful yet sassy attitude. Add the words "come on" in a spirited, inviting font that captures her teasing and daring personality, perfect for a lighthearted provocation in a digital sticker format. in the style of animated shapes,simple, meme art, animated gifs, chibi, sticker --ar 1:1 --style raw --iw 2
+
+
+
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
