@@ -5,6 +5,7 @@
 # 对于每个点，计算它与其他所有点形成的直线的斜率，并更新哈希表。
 # 遍历哈希表，找到具有最多点对的斜率。
 # 返回穿过最多点的直线的斜率和截距。
+
 from collections import defaultdict
 import math
 
@@ -16,7 +17,7 @@ def max_points_on_a_line(points):
         else:
             slope = (p2[1] - p1[1]) / (p2[0] - p1[0])
             intercept = p1[1] - slope * p1[0]  # y = mx + b => b = y - mx
-            return slope, intercept
+        return slope, intercept
 
     n = len(points)
     if n < 2:
@@ -25,49 +26,25 @@ def max_points_on_a_line(points):
     max_points = 0
     best_line = (0, 0)  # Placeholder for slope, intercept
     for i in range(n - 1):
+        # lines 是一个 defaultdict(int) 的实例。这意味着如果我们试图访问一个不存在的键，defaultdict 会自动创建这个键，并将其值初始化为 int() 的结果，即 0
         lines = defaultdict(int)
-        duplicates = 0
-        cur_max_points = 1
+        duplicates = 1  # Start with 1 to count the point itself
+        cur_max_points = 1  # 当前直线上最多点的数量，起始为 1
         for j in range(i + 1, n):
             if points[i] == points[j]:
-                duplicates += 1
+                duplicates += 1  # 如果发现重复的点，则增加重复计数
                 continue
             slope, intercept = get_slope_and_intercept(points[i], points[j])
-            lines[(slope, intercept)] += 1
-            cur_max_points = max(cur_max_points, lines[(slope, intercept)])
+            lines[(slope, intercept)] += 1  # 在字典中记录这条直线，增加经过的点的数量
+            # 更新当前直线上的最大点数，考虑重复点的情况
+            cur_max_points = max(cur_max_points, lines[(slope, intercept)] + duplicates)
 
-        cur_max_points += duplicates
         if cur_max_points > max_points:
             max_points = cur_max_points
-            best_line = max(lines, key=lines.get)  # Get the line with the most points
+            # 选出当前有最多点的直线，考虑重复点的情况
+            best_line = max(lines, key=lambda k: lines[k] + duplicates)  # Get the line with the most points
 
     return best_line, max_points
-
-
-# 自己写的,明显有问题
-def max_points_on_a_line2(points):
-    def get_slope(p1, p2):
-        if p1[0] == p2[0]:
-            return math.inf
-        else:
-            return (p2[1] - p1[1]) / (p2[0] - p1[0])
-
-    def get_line(p1, p2):
-        slope = get_slope(p1, p2)
-        little_b = p2[1] - slope * p2[0]
-        return [slope, little_b]
-
-    def get_nums(points):
-        pass
-
-    n = len(points)
-    if n < 2:
-        return None
-    # 初始化一个set
-    my_set = []
-    for i in range(n - 1):
-        for j in range(i + 1, n):
-            my_set.append(get_line(points[0], points[1]))
 
 
 # Example usage:
