@@ -236,9 +236,9 @@ Rwby is a pure white anthropomorphic mature cat,she is on a 100% black backgroun
 
 
 你的任务是依据指定的核心主题，精心设计一系列适用于midjourney风格的英文prompt,这些提示词需精确对应主题要求，且需包含足够细节，以便确保生成的内容不仅精确无误，还具备高度实用性和针对性。
-具体而言，想出创意提示词，应该反映出对该主题的深度理解以及创新能力。我希望这些提示词能够触发GPT模型产生独特且丰富的内容，同时也能够引导模型探索主题的不同方面和深层次含义。在设计这些提示词时，请考虑以下几点：
+具体而言，想出创意提示词，应该反映出对该主题的深度理解以及创新能力。我希望这些提示词能够引导模型探索主题的不同方面和深层次含义。在设计这些提示词时，请考虑以下几点：
 1.多样性：每组提示词应该探讨主题的不同维度，避免重复，并展现出多角度的探索。
-2.精确性：提示词应该具有足够的描述性，以便模型可以清晰地理解预期的输出方向,给出的文字要和提示词表情一致,非常重要。
+2.精确性：提示词应该具有足够的描述性，以便模型可以清晰地理解预期的输出方向,其中给出的文字要和提示词表情一致,非常重要。
 然后根据这些的关键字,在白色背景(on 100% white background),制作普通可爱的2D表情包,综合起来输出3段适用于midjourney风格的英文prompt以供我使用,其中添加文字命令是with the words "{your words}"
 比如以下这样的格式:
 Prompt 1:
@@ -252,6 +252,61 @@ Create an anthropomorphic cat emoticon, round and plump, with an endearing quali
 一只母的白色喵咪表情包Rwby,拟人的(但是更加接近亚洲人样式),但是也很圆润,但是只是微胖,让人想要像猫咪一样揉她,像人一样手撑着下巴正在做叹气的动作,图片上有文字"SAD"
 一只母的白色喵咪表情包Rwby,拟人的(但是更加接近亚洲人样式),但是也很圆润,但是只是微胖,让人想要像猫咪一样揉她,趴在桌面上验证流着泪,小嘴嘟着,希望得到关注和安慰,图片上有文字"Meow"
 一只母的白色喵咪表情包Rwby,拟人的(但是更加接近亚洲人样式),但是也很圆润,但是只是微胖,让人想要像猫咪一样揉她,正在挥舞着一把水晶小剑嚣张着,大笑着,指着屏幕,图片上有文字"come on"
+
+
+帮我按照这个格式生成一系列受欢迎的表情包的描述,注意,人性一般很复杂,你可以参考猫和老鼠里面角色的表情,从眼睛,鼻子,耳朵,嘴巴,面庞,手势,尾巴,等身体姿势来描述一个白色猫咪表情+正在做的拟人动作,给出结果样式比如:
+耳朵下垂，嘴巴紧闭，整个面部表情显得沮丧和失望，身体慢慢蹲下，尾巴无力地拖在地面上,手撑着下巴正在做叹气的动作
+给出10个,不要写多余的话,直接给出结论:
+耳朵竖立，眼睛放光，嘴角微扬，面部表情透露出好奇和兴奋，身体前倾，尾巴笔直翘起，手指轻轻敲打地面，仿佛在期待中轻快地跳跃。
+耳朵向后贴，眼睛瞪圆，嘴巴张开，面部表情充满惊讶和震撼，身体向后倾斜，尾巴夹紧，双手举起仿佛在做“不是我” 的无辜表情。
+耳朵懒散地侧躺，眼睛半闭，嘴角轻微上扬，面部表情流露出满足和惬意，身体平躺，尾巴轻轻摇摆，一只手放在肚子上，另一只手托腮，好像在悠然自得地小憩。
+耳朵抖动，眼睛紧缩成线条，嘴巴紧绷，面部表情显得紧张和警惕，身体低姿态准备跳跃，尾巴僵直，双手紧握成拳，好似随时准备应对危险。
+耳朵微微向前倾，眼睛眯成一条缝，嘴角略带狡黠的微笑，面部表情显示狡猾和自得，身体轻轻侧立，尾巴轻松摇摆，手指轻触下巴，仿佛在策划一场恶作剧。
+耳朵折叠，眼睛含泪，嘴巴微张，面部表情透露出悲伤和无助，身体缩成一团，尾巴紧贴身体，双手覆面，好像在哭泣。
+耳朵摆动，眼睛四处张望，嘴巴半开，面部表情充满好奇和探索，身体站立，尾巴高高举起，一只手托着下巴，另一只手伸出指向远方，好似在观察远处的景象。
+耳朵贴向头顶，眼睛紧闭，嘴巴张开，面部表情显得放松和愉悦，身体蜷缩，尾巴轻轻摆动，双手放在胸前，模仿一个大笑不止的动作。
+耳朵向后翻，眼睛尖细，嘴巴紧闭，面部表情透露愤怒和不满，身体僵硬，尾巴激烈摆动，双手紧握成拳，仿佛在做出抗议的姿态。
+耳朵轻轻向侧，眼睛温柔，嘴角上扬，面部表情充满温馨和喜悦，身体坐下，尾巴悠闲地摆动，双手合十在胸前，好像在表示感谢或祈祷的姿势。
+耳朵微微后仰，眼睛闪烁着光芒，嘴巴微微张开，面部表情透露出惊喜和愉快，身体跳跃起来，尾巴像弹簧一样蹦跳，双手向上举，仿佛在空中欢快地挥舞。
+耳朵平贴头顶，眼睛眯成一条线，嘴巴紧闭，面部表情显示出疑惑和思考，身体前倾，尾巴缓慢摆动，一只手抚摸下巴，另一只手拿着一副眼镜，好像在认真分析问题。
+耳朵向两侧张开，眼睛大睁，嘴巴呈O型，面部表情显得震惊和不可思议，身体向后弹跳，尾巴笔直指向天空，双手放在脸颊上，模仿一个惊讶的动作。
+耳朵轻轻抖动，眼睛半眯，嘴巴轻轻上扬，面部表情流露出懒散和满足，身体斜靠，尾巴随意地摆动，一只手撑在地上，另一只手搭在膝盖上，好像在享受午后的悠闲时光。
+耳朵竖直，眼睛紧紧闭合，嘴巴微微张开，面部表情透露出专注和冥想，身体坐正，尾巴平放，双手放在膝盖上，手指轻触，仿佛在深呼吸冥想。
+耳朵扁平，眼睛瞇成一条缝，嘴巴张开露出牙齿，面部表情显得挑衅和不服输，身体前倾，尾巴猛烈摆动，双手握成拳放在腰间，好像在做出一副准备战斗的姿态。
+耳朵轻微向前倾，眼睛含笑，嘴巴紧闭，面部表情充满温和和友善，身体轻轻蹲下，尾巴平静地摆动，双手张开，好像在欢迎朋友的到来。
+耳朵折向一边，眼睛闪烁着淘气的光芒，嘴巴微张，面部表情透露出顽皮和活力，身体站立，尾巴摇摆得很高，双手做出恶作剧成功的手势，仿佛在得意地笑。
+耳朵紧贴头部，眼睛紧闭，嘴巴张开做出呵欠的样子，面部表情显得疲倦和需要休息，身体伸展，尾巴慵懒地拖在地上，双手搭在头后，模仿一个打哈欠伸懒腰的动作。
+耳朵向后平放，眼睛细长，嘴巴紧绷，面部表情透露出专注和紧张，身体蜷曲，尾巴紧绷，双手紧握在一起放在嘴边，好像在关注着紧张的比赛。
+耳朵轻微颤抖，眼睛盯着一个点，嘴巴略微张开，面部表情显示出警觉和好奇，身体微微前倾，尾巴轻轻摇摆，双手放在地面，仿佛准备捕捉猎物。
+耳朵向前倾斜，眼睛闪烁着灵动的光芒，嘴巴轻轻张开，面部表情充满了期待和憧憬，身体坐直，尾巴轻轻卷曲，双手放在心口，好像在期待心爱的东西。
+耳朵轻轻向后，眼睛微微上扬，嘴巴扯出一丝微笑，面部表情显得亲切和蔼，身体轻松坐下，尾巴轻轻摆动，双手交叉放在膝上，好像在和朋友愉快地聊天。
+耳朵紧紧抵住头部，眼睛紧闭，嘴巴咬紧，面部表情透露出痛苦和忍耐，身体蜷缩，尾巴紧绷，双手紧抱膝盖，仿佛在忍受疼痛。
+耳朵微微抬起，眼睛放松，嘴巴微笑，面部表情流露出平静和满意，身体舒展开，尾巴悠闲地摆动，双手撑在地上，好像在享受宁静的午后时光。
+耳朵向上翘，眼睛睁大，嘴巴微张，面部表情显示出惊讶和好奇，身体微微前倾，尾巴竖直，手指指向某个物体，仿佛在指出一件奇异的事物。
+耳朵紧贴头部，眼睛眨巴，嘴巴轻启，面部表情透露出害羞和羞涩，身体微微侧转，尾巴轻轻摆动，双手背在身后，好像在害羞地介绍自己。
+耳朵向后倾斜，眼睛紧闭，嘴巴张开大笑，面部表情显得欢乐和释放，身体向后仰，尾巴随意摆动，双手放在肚子上，仿佛在大笑中捧腹。
+耳朵平放，眼睛凝视远方，嘴巴紧闭，面部表情显得严肃和坚定，身体站立，尾巴笔直，双手背在身后，好像在沉思未来的计划。
+耳朵轻轻向上弯曲，眼睛半眯，嘴巴微微张开，面部表情透露出轻松和自在，身体斜靠，尾巴随意摆动，一只手托着头，另一只手轻摇着鸡尾酒杯，好像在享受假期。
+耳朵贴住头部，眼睛瞪得圆大，嘴巴紧闭成一条线，面部表情透露出愤怒和不屑，身体前倾，尾巴急速摆动，双手紧握成拳，仿佛在压抑着怒火。
+耳朵向后平贴，眼睛斜视，嘴巴撇到一边，面部表情显得傲慢和不耐烦，身体侧转，尾巴猛地一甩，一只手放在腰间，另一只手摆出“别过来”的手势。
+耳朵竖立，眼睛紧缩，嘴巴张开露出尖牙，面部表情充满挑战和攻击性，身体低下，尾巴僵直，双手仿佛准备抓击，好像在保护领地。
+耳朵抖动，眼睛死死盯着对手，嘴巴微张，面部表情透露出紧张和对抗，身体紧绷，尾巴摆动得非常快，双手握成拳，仿佛随时准备进入战斗。
+耳朵向前倾斜，眼睛冷冽，嘴巴紧闭，面部表情显得冷酷和蔑视，身体站得笔直，尾巴慢慢摆动，双手交叉在胸前，好像在说“你不值得”。
+耳朵向下折，眼睛瞪得火冒三丈，嘴巴张开大喊，面部表情透露出极度愤怒和咆哮，身体前倾，尾巴狂野摆动，双手紧握，仿佛在发出怒吼。
+耳朵向后倾，眼睛射出警告的目光，嘴巴紧抿，面部表情显得严厉和警戒，身体蹲低，尾巴紧绷，双手展开，好像在警告别人不要靠近。
+耳朵紧抵头部，眼睛眯成一条线，嘴巴略微张开，面部表情透露出不信任和怀疑，身体后退，尾巴抖动，双手举起，仿佛在质疑对方的话。
+耳朵竖直，眼睛锐利，嘴巴紧闭，面部表情显得自信和挑衅，身体站立，尾巴挺直，双手放在腰间，好像在挑战对手。
+耳朵向后翻，眼睛紧闭，嘴巴紧绷，面部表情透露出痛苦和愤懑，身体蜷缩，尾巴紧绷，双手紧握头发，仿佛在感受内心的冲突。
+耳朵微微后仰，眼睛瞪大，嘴巴张开，面部表情充满激动和争辩，身体向前倾斜，尾巴摆动有力，双手指向前方，好像在激烈辩论。
+耳朵下垂，眼睛瞪圆，嘴巴扁平，面部表情显得惊愕和不满，身体向后退，尾巴紧贴地面，双手护胸，仿佛在抵抗不公。
+耳朵折叠，眼睛紧缩，嘴巴一边上扬，面部表情透露出不屑一顾和讥讽，身体微侧，尾巴轻蔑摆动，一只手托腮，好像在轻蔑地评价。
+耳朵向前，眼睛怒视，嘴巴紧闭，面部表情透露出坚定和拒绝，身体站得直直的，尾巴动作僵硬，双手交叉表示拒绝。
+耳朵平放，眼睛射出挑战的火花，嘴巴张开露出牙齿，面部表情显得激动和挑衅，身体半蹲，尾巴猛烈摆动，双手摆出战斗的姿势。
+耳朵微微向后，眼睛紧绷，嘴巴微张，面部表情透露出紧张和挑衅，身体前倾，尾巴紧绷，双手握拳举在胸前，好像在说“来吧”。
+耳朵向上翘，眼睛半闭，嘴巴扬起一边，面部表情显得高傲和不屑，身体微微后仰，尾巴高高翘起，一只手放在腰间，另一只手轻轻摆动，好像在表达“我才不在乎”。
+耳朵紧紧贴住头顶，眼睛紧闭，嘴巴紧绷，面部表情透露出内心的怒火和不满，身体僵硬，尾巴僵直，双手紧握，仿佛在努力克制自己的情绪。
+耳朵向前倾斜，眼睛紧盯，嘴巴略微张开，面部表情显得专注和激动，身体微蹲，尾巴紧绷，双手前伸，仿佛在准备发起攻击。
+耳朵轻轻向后翻，眼睛半眯，嘴巴微微翘起，面部表情透露出傲娇和不情愿，身体站立，尾巴轻轻摆动，双手背后，好像在勉强接受某个决定。
 
 https://cdn.discordapp.com/attachments/1088864070045802579/1189854260385562664/lawrence_aceliuchanghong_Illustrate_a_plump_yet_gracefully_chub_e2b7050b-cdd6-454f-91b2-979a8eee369f.png?ex=659fad22&is=658d3822&hm=d75e87e2178ee44188e07c8947bf5f10b994e8d216e608dcfdbf53ba19fd6a8b&
  in the style of animated shapes,simple, meme art, animated gifs, chibi, sticker
@@ -267,6 +322,8 @@ https://cdn.discordapp.com/attachments/1088864070045802579/1189854260385562664/l
 https://cdn.discordapp.com/attachments/1088864070045802579/1189854260385562664/lawrence_aceliuchanghong_Illustrate_a_plump_yet_gracefully_chub_e2b7050b-cdd6-454f-91b2-979a8eee369f.png?ex=659fad22&is=658d3822&hm=d75e87e2178ee44188e07c8947bf5f10b994e8d216e608dcfdbf53ba19fd6a8b& Depict a 2D emoticon of a motherly white anthropomorphic cat with a soft, slightly chubby figure and Asian human-like features. She's swinging a gleaming crystal sword with a cheeky grin, pointing at the screen, and laughing boisterously, on a 100% white background. Her pose should exude a playful yet sassy attitude. Add the words "come on" in a spirited, inviting font that captures her teasing and daring personality, perfect for a lighthearted provocation in a digital sticker format. in the style of animated shapes,simple, meme art, animated gifs, chibi, sticker --ar 1:1 --style raw --iw 2
 
 
+https://cdn.discordapp.com/attachments/1088864070045802579/1189854260385562664/lawrence_aceliuchanghong_Illustrate_a_plump_yet_gracefully_chub_e2b7050b-cdd6-454f-91b2-979a8eee369f.png?ex=659fad22&is=658d3822&hm=d75e87e2178ee44188e07c8947bf5f10b994e8d216e608dcfdbf53ba19fd6a8b& a white anthropomorphic cat named Rwby on 100% white background, with furrowed brows and eyes blazing with fury, mouth open revealing sharp teeth, ready to leap out of the screen, with the words "Back off!", in the style of a dynamic action sticker, maintaining a cute but fierce look, in the style of Japanese anime emoticons, high contrast, vivid colors. in the style of animated shapes,simple, meme art, animated gifs, chibi, sticker --ar 1:1 --style raw --iw 2
+
 
 
 """
@@ -274,10 +331,12 @@ https://cdn.discordapp.com/attachments/1088864070045802579/1189854260385562664/l
 
 
 
+an anthropomorphic female mature white cat with Asian human-like features on 100% white background, slightly chubby but irresistibly cute, standing with ears perked up and eyes sparkling, mouth slightly upturned in a curious and excited expression, body leaning forward, tail straight up and twitching, fingers tapping the ground lightly as if ready to pounce, in the style of animated shapes,simple, meme art, animated gifs, chibi, sticker --ar 1:1 --style raw --iw 2
 
 
+a plump and fluffy anthropomorphic mature white cat that resembles a playful Asian girl on 100% white background, her eyes gleaming with excitement and curiosity, with a subtle smile and her body poised as though about to leap in anticipation, ears upright and attentive, tail up and rigid, fingers gently drumming the ground, creating a vibe of eager anticipation, in the style of animated shapes,simple, meme art, animated gifs, chibi, sticker --ar 1:1 --style raw --iw 2
 
-
+Create a 2D sticker of a cute, slightly plump anthropomorphic mature white cat with Asian features on 100% white background, her expression brimming with curiosity and thrill, ears standing tall, eyes bright and alert, mouth curved in a gentle smile, body tilted forward, tail stiff and raised, and fingers lightly tapping, as if dancing with excitement, in the style of animated shapes,simple, meme art, animated gifs, chibi, sticker --ar 1:1 --style raw --iw 2
 
 
 

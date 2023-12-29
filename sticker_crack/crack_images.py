@@ -115,25 +115,27 @@ if __name__ == '__main__':
     input_image_path_heng_2 = '../files/240x240/750x400_pixeled.png'
     input_image_path_zang_2 = '../files/240x240/750x560_pixeled.png'
     input_image_path3_2 = '../files/240x240/750x750_pixeled.png'
+    s = '../files/original/what\'s_up.png'
     # 裁剪多余边框 到 input_path3
-    # for in1 in image_cracker.get_files_with_ext(input_path, 'png'):
-    #     image_cracker.crop_image(in1, input_path3, 50, 50)
-    # print('end1')
-    # for in0 in image_cracker.get_files_with_ext(input_path3, 'png'):
-    #     image_cracker.deal_pic(in0, 220, 220)
-    #     image_cracker.deal_pic(in0, 40, 40, input_path4)
-    # print('end2')
-    # for input_image_path in image_cracker.get_files_with_ext(input_path2, 'png'):
-    #     image_cracker.add_black_border(input_image_path, 10)
-    # print('end3')
-    # for in2 in image_cracker.get_files_with_ext(input_path4, 'png'):
-    #     image_cracker.add_black_border(in2, 5, input_path5)
-    # print('end4')
-    image_cracker.deal_pic(input_image_path_heng, 730, 380)
-    image_cracker.deal_pic(input_image_path_zang, 730, 540)
-    image_cracker.deal_pic(input_image_path3, 730, 730)
-
-    image_cracker.add_black_border(input_image_path_heng_2, 10)
-    image_cracker.add_black_border(input_image_path_zang_2, 10)
-    image_cracker.add_black_border(input_image_path3_2, 10)
+    for in1 in image_cracker.get_files_with_ext(input_path, 'png'):
+        image_cracker.crop_image(in1, input_path3, 50, 50)
+    print('end1')
+    for in0 in image_cracker.get_files_with_ext(input_path3, 'png'):
+        image_cracker.deal_pic(in0, 220, 220)
+        image_cracker.deal_pic(in0, 40, 40, input_path4)
+    print('end2')
+    for input_image_path in image_cracker.get_files_with_ext(input_path2, 'png'):
+        image_cracker.add_black_border(input_image_path, 10)
+    print('end3')
+    for in2 in image_cracker.get_files_with_ext(input_path4, 'png'):
+        image_cracker.add_black_border(in2, 5, input_path5)
+    print('end4')
+    # image_cracker.deal_pic(input_image_path_heng, 730, 380)
+    # image_cracker.deal_pic(input_image_path_zang, 730, 540)
+    # image_cracker.deal_pic(input_image_path3, 730, 730)
+    #
+    # image_cracker.add_black_border(input_image_path_heng_2, 10)
+    # image_cracker.add_black_border(input_image_path_zang_2, 10)
+    # image_cracker.add_black_border(input_image_path3_2, 10)
+    # image_cracker.crop_image(s, input_path3, 150, 270)
     print('end')
