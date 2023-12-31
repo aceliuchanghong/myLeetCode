@@ -46,7 +46,9 @@ class ImageCracker:
         # 构建输出文件路径
         output_path = os.path.join(output_dir, os.path.basename(input_path))
         output_path = output_path.replace('\\', '/')  # 确保使用'/'作为路径分隔符
-
+        # 确保输出目录存在
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
         # 构建ffmpeg命令
         # 假设我们要从每一边裁剪相同的宽度/高度
         crop_filter = f"crop=in_w-{2 * crop_width}:in_h-{2 * crop_height}"
@@ -108,13 +110,7 @@ if __name__ == '__main__':
     input_path4 = '../files/50x50'
     input_path5 = '../files/border_50x50'
 
-    input_image_path_heng = '../files/other/750x400.png'
-    input_image_path_zang = '../files/other/750x560.png'
-    input_image_path3 = '../files/other/750x750.png'
 
-    input_image_path_heng_2 = '../files/240x240/750x400_pixeled.png'
-    input_image_path_zang_2 = '../files/240x240/750x560_pixeled.png'
-    input_image_path3_2 = '../files/240x240/750x750_pixeled.png'
     s = '../files/original/what\'s_up.png'
     # 裁剪多余边框 到 input_path3
     for in1 in image_cracker.get_files_with_ext(input_path, 'png'):
