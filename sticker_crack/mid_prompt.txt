@@ -239,7 +239,7 @@ Rwby is a pure white anthropomorphic mature cat,she is on a 100% black backgroun
 具体而言，想出创意提示词，应该反映出对该主题的深度理解以及创新能力。我希望这些提示词能够引导模型探索主题的不同方面和深层次含义。在设计这些提示词时，请考虑以下几点：
 1.多样性：每组提示词应该探讨主题的不同维度，避免重复，并展现出多角度的探索。
 2.精确性：提示词应该具有足够的描述性，以便模型可以清晰地理解预期的输出方向,其中给出的文字要和提示词表情一致,非常重要。
-然后根据这些的关键字,在白色背景(on 100% white background),制作普通可爱的2D表情包,综合起来输出3段适用于midjourney风格的英文prompt以供我使用,其中添加文字命令是with the words "{your words}"
+然后根据这些的关键字,在白色背景(on 100% white background),制作普通可爱的2D白色猫咪表情包,综合起来输出3段适用于midjourney风格的英文prompt以供我使用,其中添加文字命令是with the words "{your words}"
 比如以下这样的格式:
 Prompt 1:
 --v 5 --q 2 --ar 1:1 --style 2D --stylize 500
