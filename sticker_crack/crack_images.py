@@ -116,16 +116,16 @@ if __name__ == '__main__':
     print('end1')
     # 开始变换大小
     for in0 in image_cracker.get_files_with_ext(input_path3, 'png'):
-        image_cracker.deal_pic(in0, 232, 232)
-        image_cracker.deal_pic(in0, 40, 40, input_path4)
+        image_cracker.deal_pic(in0, 234, 234)
+        image_cracker.deal_pic(in0, 48, 48, input_path4)
     print('end2')
     # 增加黑色边框1
     for input_image_path in image_cracker.get_files_with_ext(input_path2, 'png'):
-        image_cracker.add_black_border(input_image_path, 4)
+        image_cracker.add_black_border(input_image_path, 3)
     print('end3')
     # 增加黑色边框2
     for in2 in image_cracker.get_files_with_ext(input_path4, 'png'):
-        image_cracker.add_black_border(in2, 5, input_path5)
+        image_cracker.add_black_border(in2, 1, input_path5)
     print('end4')
 
     print('end')
