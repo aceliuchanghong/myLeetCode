@@ -25,7 +25,7 @@
 grid = [[0, 1, 0], [0, 1, 0]]
 k1 = 0
 k2 = 1
-
+# 类似 面试题72：二维数组最小路径和
 
 def robot_navigation(grid: list[list[int]], k: int) -> bool:
     m, n = len(grid), len(grid[0])

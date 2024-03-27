@@ -44,3 +44,27 @@ C.nexts = [D]
 D.nexts = [B]
 
 print(count_paths(A, D, 2))
+
+
+# leetcode 第70题类似
+# 假设你正在爬楼梯。需要 n 阶你才能到达楼顶。
+# 每次你可以爬 1 或 2 个台阶。你有多少种不同的方法可以爬到楼顶呢？
+
+def climbStairs(n: int):
+    """
+    :type n: int
+    :rtype: int
+    """
+    if n == 1:
+        return 1
+    if n == 2:
+        return 2
+    else:
+        # 爬到第 n 级台阶可以由爬到第 n-1 级台阶再爬一步或者爬到第 n-2 级台阶再跨两步得到
+        # 所以爬到第 n 级台阶的方法数等于爬到第 n-1 级台阶的方法数加上爬到第 n-2 级台阶的方法数
+        s1 = climbStairs(n - 1)
+        s2 = climbStairs(n - 2)
+        return s1 + s2
+
+
+print(climbStairs(3))
