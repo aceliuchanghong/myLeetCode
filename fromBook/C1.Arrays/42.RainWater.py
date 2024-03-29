@@ -29,6 +29,7 @@ def trap(height):
 
     water = 0
     for i in range(n):
+        # 等于左侧和右侧最大高度中较小的那个高度减去当前位置的柱子高度
         water += min(left_max[i], right_max[i]) - height[i]
 
     return water
