@@ -9,6 +9,15 @@ dataA = ga.newArray.generateit(k)
 
 # 删除最少的元素，保证剩下的元素是递增有序的。换一句话说，找出最长的递增有序序列
 def find_min_removal(arr):
+    """
+    最开始自己做的时候,d[i]表示了从arr[0]到arr[i-1]这些最长的递增有序序列,导致状态转移方程很难写
+    for i in range(len(arr)):
+        if arr[i-1]<arr[i-2]:
+            d[i]=d[i-1]
+    但是,其他的就写不出来了
+    :param arr:
+    :return:
+    """
     n = len(arr)
     # dp[i]代表以输入数组arr[i]为结尾的最长子序列长度，dp[i]通过如下方式计算
 
@@ -28,7 +37,33 @@ def find_min_removal(arr):
     return min_removal
 
 
+# 下面代码有问题
+def my_dp(arr):
+    """
+    最开始自己做的时候,d[i]表示了从arr[0]到arr[i-1]这些最长的递增有序序列,导致状态转移方程很难写
+    for i in range(len(arr)):
+        if arr[i-1]<arr[i-2]:
+            d[i]=d[i-1]
+    但是,其他的就写不出来了
+
+    :param arr:
+    :return:
+    """
+    n = len(arr)
+    dp = [1] * n
+
+    for i in range(n):
+        if arr[i - 1] < arr[i - 2]:
+            dp[i] = dp[i - 1]
+
+    max_length = max(dp)  # 最长递增子序列的长度
+    min_removal = n - max_length  # 最少需要删除的元素个数
+
+    return min_removal
+
+
 arr = [4, 2, 3, 6, 10, 1, 12]
 result = find_min_removal(arr)
+print(my_dp(arr))
 print(result)
 print(dataA)
