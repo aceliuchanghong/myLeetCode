@@ -7,12 +7,17 @@ dataA = ga.newArray.generateNegOne(m)
 dataB = ga.newArray.generateit(n)
 
 
-# dp[i][j]表示将A的前i个元素和B的前j个元素进行乘积运算得到的最小乘积
-# i=j=0时,无法插入,所以A[0]*B[0]
-# 对于dp[i][j],若
-#   1.dp[i][j] = dp[i-1][j-1] + A[i-1]*B[j-1]  ----在 A[i-1] 和 B[j-1] 处不插入 0
-#   2.dp[i][j] = dp[i][j-1]   ----在 A[j-1] 处插入 0
-#   3.dp[i][j] = dp[i][j-1]   ----在 B[i-1] 处插入 0
+# dp[i][j] 表示将 A 的前 i 个元素和 B 的前 j 个元素进行乘积运算得到的最小乘积。
+#
+# 对于 dp[i][j]，考虑以下两种情况：
+# 1. 若 A[i-1] 与 B[j-1] 不插入 0，则 dp[i][j] = dp[i-1][j-1] + A[i-1] * B[j-1]。
+# 2. 若在 A[i-1] 处插入 0，则 dp[i][j] = dp[i-1][j] + 0 * B[j-1]。
+#
+# 状态转移方程为：
+# dp[i][j] = min(dp[i-1][j-1] + A[i-1] * B[j-1], dp[i-1][j] + 0 * B[j-1])
+#
+# 初始条件为：
+# dp[0][0] = A[0] * B[0]
 
 def solution(A, B):
     m = len(A)

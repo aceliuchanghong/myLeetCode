@@ -29,3 +29,9 @@ s = "abbcbbd"
 
 # 调用函数并输出结果
 print(longest_palindrome(s))
+
+# self
+# 二维布尔数组的元素dp[i][j]记录从s[i]到s[j]组成的子串的回文子串长度
+# for i in range(1, n):
+#     for j in range(i):
+# dp[i][j] = max(2+dp[i-1][j+1],dp[i-1][j],dp[i][j+1])

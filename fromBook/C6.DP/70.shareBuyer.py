@@ -1,6 +1,6 @@
 # 股票买卖
 # 给出一个数组，第i个元素代表第i天的股票，求最大交易利润。允许最多交易两次。
-
+# 交易一次,指最多一次买卖
 """
 prices = [1, 3, 1]
 
@@ -12,7 +12,7 @@ Profit = 2
 """
 from fromBook.util import generateArray as ga
 
-n = 3
+n = 5
 dataB = ga.newArray.generateit(n)
 
 
@@ -23,6 +23,8 @@ def buyShare(prices):
     第一维表示天数 i，范围是 0 到 n-1，n 是价格数组的长度。
     第二维表示交易次数 k，范围是 0 到 max_k，max_k 是允许的最大交易次数。
     第三维表示当前是否持有股票，0 表示不持有，1 表示持有。
+
+    dp[i][k][0] 表示第 i 天，已经进行了 k 次交易，且不持有股票时的最大利润
     :param prices:
     :return:
     """

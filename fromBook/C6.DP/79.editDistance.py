@@ -2,7 +2,7 @@
 # dp[i][j]表示将word1的前i个字符转换为word2的前j个字符的最小步骤数。即从word1[0…i-1]转换为word2[0…j-1]的最少步骤
 
 # 当word1[i-1] 和 word2[j-1] 字符相等时候，dp[i][j] = dp[i-1][j-1]
-# 否则dp[i][j] = 1+min(dp[i-1][j],dp[i][j-1],dp[i-1][j-1])
+# 否则dp[i][j] = 1+min(dp[i-1][j],dp[i][j-1],dp[i-1][j-1]) 插入word1,插入word2,替换
 
 def min_distance(word1, word2):
     len1, len2 = len(word1), len(word2)
