@@ -30,4 +30,4 @@ class newArray:
         """
         deep = key * 2
         # 返回无重复值数组
-        return list(set([np.random.randint(0, deep) for _ in range(key)]))
+        return list(set([np.random.randint(1, deep) for _ in range(key)]))
