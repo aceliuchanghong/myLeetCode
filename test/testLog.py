@@ -6,7 +6,7 @@ import logging
 # ERROR | 由于一个更严重的问题导致某些功能不能正常运行时记录的信息
 # CRITICAL | 当发生严重错误，导致应用程序不能继续运行时记录的信息
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.WARN)
 
 logging.debug("This is a debug log.")
 logging.info("This is a info log.")

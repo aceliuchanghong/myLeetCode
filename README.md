@@ -1,16 +1,22 @@
 ## CrackIt
 
-1. 指导书籍:
-- 进军硅谷程序员面试揭秘 (技术移民参考手册) (陈东锋) (z-lib.org).epub
+```shell
+pip freeze > requirements.txt
+conda create -n CrackIt python=3.10
+conda activate CrackIt
+pip install -r requirements.txt
+```
 
-2. Flow Epub 阅读器
+### fromBook:
+
 ```url
-https://www.flowoss.com/zh-CN
+Path: fromBook/Z_ebook
+EpubReader: https://www.flowoss.com/zh-CN
 ```
 
-### Prompt
-```text
-用ASCII字符来创建一个AVL树的文本表示
+### ml_crack
 
-python程序上下文均顺利跑通,环境均配置好了,我自己的import的模块都已完成,此处仅仅省略了,无需关注,回答以下问题:
 ```
+Site: https://www.deep-ml.com/
+```
+
