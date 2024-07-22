@@ -1,4 +1,5 @@
 """
+建造者模式:
 产品类          Car
 抽象建造者       CarBuilder
 具体建造者       GasolineBuilder,ElectricBuilder
